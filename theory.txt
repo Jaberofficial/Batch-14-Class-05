@@ -1,0 +1,29 @@
+
+
+======Table Tag=====
+
+left to right row
+up to down column
+
+table tag use for create table
+In Table tag ---- tr tag use for create row
+In Tr tag ----td tag use for craete column
+
+In Table tag use attribute border size for show table Border
+In Table tag use attribute width for show table full screen
+
+use shortcut for multiple change select use Ctrl+d them change
+
+ <!-- Use table tag colspan usage -->
+ <!-- Use tr tag for create row -->
+  <!-- use th tag for table heading -->
+    <!-- td tag use for create column  -->
+
+    <!-- Use table tag colspan usage -->
+    <!-- use atribute width=100% in table tag  for show full screen left to right -->
+    <!-- use atribute height=50 for show row size increase up to down -->
+    <!-- use colspan in td tag for extra column space use for 1 column -->
+
+     <!-- Use table tag rowspan usage -->
+     <!-- use rowspan in td tag for extra row space use for 1 row -->
+     
